@@ -1,0 +1,6 @@
+
+#Connect to postgres console
+#1. docker exec -it postgres_server psql -U postgres
+
+# 2. excecute command sql within container
+# CREATE USER lexel_app SUPERUSER PASSWORD 'Lxl@2019!';
